@@ -1,2 +1,2 @@
 from fastcore.basics import *
-from fastcore.dispatch import typedispatch
+from fasttransform.dispatch import typedispatch

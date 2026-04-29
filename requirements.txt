@@ -2,6 +2,7 @@ Pillow
 altair
 dill
 fastcore
+fasttransform
 ipython
 loguru
 matplotlib
