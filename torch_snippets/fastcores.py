@@ -1,2 +1,2 @@
 from fastcore.basics import *
-from fasttransform.dispatch import typedispatch
+from plum import dispatch as typedispatch

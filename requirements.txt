@@ -2,7 +2,7 @@ Pillow
 altair
 dill
 fastcore
-fasttransform
+plum-dispatch
 ipython
 loguru
 matplotlib
